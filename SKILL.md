@@ -91,5 +91,6 @@ Before finishing a task, verify:
 - Every target word appears in the final story and is bolded on first occurrence.
 - Summary tables include pronunciation, Chinese hint, root/mnemonic, example, etymology/history, and `source / 资料依据`.
 - Source cells contain original URLs, not only source names or homepages.
+- Each `CN:` line is a detailed translation of the immediately preceding `EN:` paragraph, not a plot summary or a target-word list.
 - No placeholders remain: `未抓取到`, `需人工复核`, `SSLError`, `联网抓取失败`.
 - `状态/vocab_state.json` is updated only by pack-generation scripts, not by rewriting an old day.
