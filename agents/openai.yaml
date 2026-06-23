@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vocabulary Story First"
+  short_description: "Story-first English vocabulary memorization"
+  default_prompt: "Use $vocab-story-first to generate a story-first English vocabulary memorization Markdown file."
